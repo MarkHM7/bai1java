@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+}
+
+h4 {
+  color: aliceblue;
+  text-align: center;
+}
+h5 {
+  color: aliceblue;
+  text-align: right;
+}
+#btn{
+    color:aqua;
+    background-color: black;
+}
